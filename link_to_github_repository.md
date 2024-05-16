@@ -1,0 +1,1 @@
+wget run https://github.com/Aharhour/-mc-shop-system
