@@ -1,20 +1,13 @@
-# Lua Shop System
+# Lua Winkelsysteem
 
 ## Beschrijving
-Dit project implementeert een interactief winkelsysteem in Lua. Het stelt spelers in staat om items te kopen en verkopen binnen een virtuele winkelomgeving.
+* Een winkelsysteem gemaakt met Lua.
+* Het doel is om een interactieve winkelervaring te creëren binnen een Lua-programma.
+* Categorie: Game Development / Software Development
 
-## Installatie
-1. Zorg ervoor dat Lua op uw systeem is geïnstalleerd. U kunt Lua downloaden vanaf [de officiële Lua-website](https://www.lua.org/download.html).
-2. Download of kloon dit project naar uw lokale machine.
-
-## Gebruik
-1. Navigeer naar de hoofdmap van het project.
-2. Voer het Lua-script uit met uw Lua-interpreter.
-   ```bash
-   lua shop.lua
-3. Volg de instructies op het scherm om interactie te hebben met de winkel:
-    - Kies optie 1 om items te kopen.
-    - Kies optie 2 om items te verkopen.
-    - Typ de naam van het item dat u wilt kopen of verkopen.
-    - Typ het aantal items dat u wilt kopen of verkopen.
-    - Bevestig de transactie door 'y' te typen wanneer daarom wordt gevraagd.
+## Starten van het Winkelsysteem
+1. **Download de Repository**: Clone de repository naar je lokale machine.
+2. **Download de ComputerCraft Mod**: Download en installeer de ComputerCraft-mod vanuit CurseForge.
+3. **Start Minecraft op**: Open Minecraft en laad een wereld waarin je het winkelsysteem wilt gebruiken.
+4. **Plaats een Computer Blok**: Plaats een computerblok in de wereld waar je het winkelsysteem wilt activeren.
+5. **Start de Code**: Typ "shop" in de computerterminal en druk op Enter om het winkelsysteem te starten. Nu is het programma  geopend en klaar voor gebruik.
